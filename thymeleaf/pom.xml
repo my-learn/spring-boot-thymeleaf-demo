@@ -15,6 +15,10 @@
         <version>1.5.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    
+    <properties>
+    	<spring-cloud.version>Dalston.SR1</spring-cloud.version>
+    </properties>
 
     <dependencies>
         <dependency>
